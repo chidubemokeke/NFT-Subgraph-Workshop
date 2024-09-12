@@ -2,7 +2,7 @@
 
 ## Slides
 
-[![Top Slide](./slide1.png)](https://docs.google.com/presentation/d/14LRkXrxvojkeqxr8SNrDp8hpycPWX6NX4w-yQZYPx3Y/edit?usp=sharing)
+[![Top Slide](./slide1.png)]([https://docs.google.com/presentation/d/14LRkXrxvojkeqxr8SNrDp8hpycPWX6NX4w-yQZYPx3Y/edit?usp=sharing](https://docs.google.com/presentation/d/1GWUBTB4Vh_EX2xB00lfSWl04dgb1P0ClxU_UZacIqZc/edit?usp=sharing))
 
 ## Cheatsheet
 
